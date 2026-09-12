@@ -8,10 +8,12 @@ const copy = {
 };
 
 Object.assign(copy.zh, {
+  timelineBitAsiaTitle: 'Bit Asia 大会', timelineBitAsiaText: '参加 Bit Asia 大会，与行业嘉宾进行深度交流，拓展 AI、Web3 与互联网方向的人脉和资源连接。',
   focusLabelOne: '当前重点', focusValueOne: 'AI 产品 · 全球 BD', focusLabelTwo: '研究方向', focusValueTwo: 'Web3 · 市场 · 商业化', focusLabelThree: '合作偏好', focusValueThree: '共创 · 顾问 · 投资交流',
   factLabelOne: '身份', factValueOne: '非科班创业探索者', factLabelTwo: '所在地', factValueTwo: '广东 / 深圳', factLabelThree: '当前角色', factValueThree: 'StockcoinAI · BD', factLabelFour: '主航道', factValueFour: 'AI 产品与商业化', factLabelFive: '团队工作', factValueFive: '主导 AI 黄金设计 Demo', factLabelSix: '过往角色', factValueSix: 'AI 设计项目顾问', factLabelSeven: '行业参与', factValueSeven: '以太坊区块链建设者', factLabelEight: '社交网络', factValueEight: '主流平台千粉级 KOL'
 });
 Object.assign(copy.en, {
+  timelineBitAsiaTitle: 'Bit Asia Conference', timelineBitAsiaText: 'Attended Bit Asia, engaging in-depth with industry guests and expanding connections and resources across AI, Web3, and the internet.',
   focusLabelOne: 'CURRENT FOCUS', focusValueOne: 'AI Products · Global BD', focusLabelTwo: 'RESEARCH', focusValueTwo: 'Web3 · Market · Commercialization', focusLabelThree: 'OPEN TO', focusValueThree: 'Co-build · Advisory · Investment',
   factLabelOne: 'IDENTITY', factValueOne: 'Non-technical founder', factLabelTwo: 'LOCATION', factValueTwo: 'Guangdong / Shenzhen', factLabelThree: 'CURRENT ROLE', factValueThree: 'StockcoinAI · BD', factLabelFour: 'MAIN DIRECTION', factValueFour: 'AI Products & Commercialization', factLabelFive: 'TEAM WORK', factValueFive: 'AI Gold Design Demo Lead', factLabelSix: 'FORMER ROLE', factValueSix: 'AI Design Project Advisor', factLabelSeven: 'WEB3', factValueSeven: 'Ethereum Ecosystem Builder', factLabelEight: 'SOCIAL REACH', factValueEight: '1K+ KOL on Major Platforms'
 });
